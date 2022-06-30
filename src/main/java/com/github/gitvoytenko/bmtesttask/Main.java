@@ -46,11 +46,11 @@ public class Main {
             }
             if(infoInTheCup[0].equals("q")){
                 if(infoInTheCup[1].equals("best_bid")){
-                    wr.write(bid.get(0)[1] + ", " + bid.get(0)[2]);
+                    wr.write(bid.get(0)[1] + "," + bid.get(0)[2]);
                     wr.newLine();
                 }
                 if(infoInTheCup[1].equals("best_ask")){
-                    wr.write(ask.get(0)[1] + ", " + ask.get(0)[2]);
+                    wr.write(ask.get(0)[1] + "," + ask.get(0)[2]);
                     wr.newLine();
                 }
             }

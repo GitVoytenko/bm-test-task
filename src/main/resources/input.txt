@@ -1,10 +1,9 @@
 u,9,1,bid
-u,1000000000,5,ask
+u,11,5,ask
 q,best_bid
-u,900000000,2,bid
+u,10,2,bid
 q,best_bid
 o,sell,1
 q,size,10
-u,1000000000,0,bid
+u,9,0,bid
 u,11,0,ask
-q,best_bid
