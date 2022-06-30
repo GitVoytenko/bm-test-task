@@ -37,7 +37,7 @@
     </scm>
 
     <properties>
-        <mockito.version>4.5.1</mockito.version>
+        <mockito.version>4.6.1</mockito.version>
         <junit.version>5.8.2</junit.version>
         <image.comparison.version>4.4.0</image.comparison.version>
         <maven.compiler.source>1.8</maven.compiler.source>
