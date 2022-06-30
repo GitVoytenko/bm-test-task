@@ -1,4 +1,4 @@
-package src.main.java.com.github.gitvoytenko.bmtesttask;
+package com.github.gitvoytenko.bmtesttask;
 
 import java.io.*;
 import java.util.ArrayList;
@@ -8,8 +8,8 @@ public class Main {
     public static void main(String[] args){
 
         String line;
-        File inputFile = new File("input.txt");
-        File outputFile = new File("output.txt");
+        File inputFile = new File("src/main/resources/input.txt");
+        File outputFile = new File("src/main/resources/output.txt");
 
         ArrayList<String> queries = new ArrayList<>();
 
